@@ -1,0 +1,7 @@
+name: bmss_working_test
+version: 0.0.1
+description: for testing of api nyxx with the proi
+environment: 
+  sdk: '>=2.9.0 <3.0.0'
+dependencies:
+  nyxx: ^1.0.2
